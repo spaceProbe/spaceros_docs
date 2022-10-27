@@ -12,6 +12,7 @@ ROS 2 Documentation
 
    Installation
    Tutorials
+   Hardware
    The-Space-ROS-Project/Contributing
 
 **The Robot Operating System (ROS) is a set of software libraries and tools for building robot applications.**
