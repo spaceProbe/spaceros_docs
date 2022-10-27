@@ -1,6 +1,6 @@
 .. _Tutorials:
 
-HArdware Results
+Hardware Results
 ================
 
 .. list-table:: Title
